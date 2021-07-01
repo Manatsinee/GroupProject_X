@@ -1,8 +1,10 @@
 public class TC002 {
-    //tc001 started
-    // part 1
+    // work 1 completed
 
-    //part 2
+    // work 2 completed
 
-    //completed
+    //added part 3 as a requested
+
+    // testcase finished
+
 }
